@@ -19,7 +19,7 @@
 * [Figma](https://www.figma.com/file/GFRUeMD9IpJM1xOFuhfvfW/Untitled?type=design&node-id=0%3A1&mode=design&t=7rmJviXeKvQRqdPN-1)
 
 ### Документация
-* Техническое задание [Docx]() [Pdf]()
+* Техническое задание [Docx](documentation/ТЗ.docx) [Pdf](documentation/ТЗ.pdf)
 * Сопроводительное письмо [Docx]() [Pdf]()
 ### Презентация проекта
 ### Аналитика приложения
