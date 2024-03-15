@@ -23,6 +23,6 @@
 * Сопроводительное письмо [Docx](documentation/сопроводительное%20письмо.docx) [Pdf](documentation/сопроводительное%20письмо.pdf)
 * [Презентация проекта](https://docs.google.com/presentation/d/1YVuD0a0csokh8GaZ2JERykfH-5t8-e2W/edit?usp=drive_link&ouid=104603938444116681002&rtpof=true&sd=true)
 * [Видео презентация](https://drive.google.com/file/d/1Fr9vC5JxepWaS89brrDBM0Fwg12hTWZ8/view?usp=sharing)
-* Перечень задач по оформлению технического задания [PDF](documentation/Перечень%20задач@20по%20оформлению%20технического%20задания.pdf)
+* Перечень задач по оформлению технического задания [PDF](documentation/Перечень%20задач%20по%20оформлению%20технического%20задания.pdf)
 ### Аналитика приложения
 ### Инструкция для запуска
