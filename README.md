@@ -15,6 +15,7 @@
 ### Сервисы
 
 * [Miro](https://miro.com/app/board/uXjVNqRPHSs=/?share_link_id=449109766584)
+* [YouTrack](https://sanchez-z.youtrack.cloud/projects/9a3c3d28-ab45-4f2d-937a-4389b2f54637)
 * [Trello](https://trello.com/b/kgTNPGcG/тп-кондитерская)
 * [Figma](https://www.figma.com/file/GFRUeMD9IpJM1xOFuhfvfW/Untitled?type=design&node-id=0%3A1&mode=design&t=7rmJviXeKvQRqdPN-1)
 
