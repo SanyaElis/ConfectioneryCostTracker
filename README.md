@@ -25,5 +25,9 @@
 * [Презентация проекта](https://docs.google.com/presentation/d/1YVuD0a0csokh8GaZ2JERykfH-5t8-e2W/edit?usp=drive_link&ouid=104603938444116681002&rtpof=true&sd=true)
 * [Видео презентация](https://drive.google.com/file/d/1Fr9vC5JxepWaS89brrDBM0Fwg12hTWZ8/view?usp=sharing)
 * [Перечень задач по оформлению технического задания](documentation/Перечень%20задач%20по%20оформлению%20технического%20задания.pdf)
+* Курсовая [Docx](documentation/Куросовой_проект_Bake_Budget.docx) [Pdf](documentation/Куросовой_проект_Bake_Budget.pdf)
+* [Видео презентация 2 аттестация](https://drive.google.com/file/d/1EO0q1QOWb1bmxgW6Ro18P4GpF2LDYC_3/view?usp=drive_link)
+* [Презентация 2 аттестация](https://docs.google.com/presentation/d/1tnxFeujkbwyB35coAObQSXqmEiOZm4jcZZVDvUfaaHU/edit?usp=drive_link)
 ### Аналитика приложения
+[Скриншоты](analytics/)
 ### Инструкция для запуска
