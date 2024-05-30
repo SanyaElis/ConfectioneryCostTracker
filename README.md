@@ -29,6 +29,7 @@
 * [Презентация 2 аттестация](https://docs.google.com/presentation/d/1tnxFeujkbwyB35coAObQSXqmEiOZm4jcZZVDvUfaaHU/edit?usp=drive_link)
 * Сопроводительное письмо для предзащиты [Docx](documentation/Сопроводительное%20письмо%20печать.docx) [Pdf](documentation/Сопроводительное%20письмо%20печать.pdf)
 * Гайд по использованию приложения [Pdf](documentation/гайд%20по%20использованию%20приложения.pdf)
+* Презентация продукта [Pptx](documentation/Презентация%20продукта.pptx) [Pdf](documentation/Презентация%20продукта.pdf)
 
 ### Презентации проекта
 
