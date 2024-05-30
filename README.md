@@ -28,6 +28,7 @@
 * Курсовая [Docx](documentation/Курсовой_проект_Bake_Budget.docx) [Pdf](documentation/Курсовой_проект_Bake_Budget.pdf)
 * [Видео презентация 2 аттестация](https://drive.google.com/file/d/1EO0q1QOWb1bmxgW6Ro18P4GpF2LDYC_3/view?usp=drive_link)
 * [Презентация 2 аттестация](https://docs.google.com/presentation/d/1tnxFeujkbwyB35coAObQSXqmEiOZm4jcZZVDvUfaaHU/edit?usp=drive_link)
+* Сопроводительное письмо для предзащиты [Docx](documentation/Сопроводительное%20письмо%20печать.docx) [Pdf](documentation/Сопроводительное%20письмо%20печать.pdf)
 ### Аналитика приложения
 [Скриншоты](analytics/)
 ### Инструкция для запуска
