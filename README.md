@@ -36,9 +36,13 @@
 * [Видео презентация](https://drive.google.com/file/d/1Fr9vC5JxepWaS89brrDBM0Fwg12hTWZ8/view?usp=sharing)
 * [Видео презентация 2 аттестация](https://drive.google.com/file/d/1EO0q1QOWb1bmxgW6Ro18P4GpF2LDYC_3/view?usp=drive_link)
 * [Демонстрация архитекуры бэкенда](https://drive.google.com/file/d/1mlHyg8lvg_KgqsjqRLe2lQ8MDQ1ApRKa/view?usp=sharing)
+* [Демонстрация архитекуры мобильного приложения](https://drive.google.com/file/d/1oJ2xLKIwnudfivEn-WDq8iWGtfz27N8v/view?usp=sharing)
+* [Видео презентация продукта](https://drive.google.com/file/d/1x9JcE7m9iZ82eO-mOszgtvRmybfXM7Cb/view?usp=sharing)
 
 ### Аналитика приложения
 
 [Скриншоты](analytics/)
 
 ### Инструкция для запуска
+
+[apk-file](BakeBudget.apk)
