@@ -25,9 +25,10 @@
 * Сопроводительное письмо [Docx](documentation/сопроводительное%20письмо.docx) [Pdf](documentation/сопроводительное%20письмо.pdf)
 * [Презентация проекта](https://docs.google.com/presentation/d/1YVuD0a0csokh8GaZ2JERykfH-5t8-e2W/edit?usp=drive_link&ouid=104603938444116681002&rtpof=true&sd=true)
 * [Перечень задач по оформлению технического задания](documentation/Перечень%20задач%20по%20оформлению%20технического%20задания.pdf)
-* Курсовая [Docx](documentation/Курсовой_проект_Bake_Budget.docx) [Pdf](documentation/Курсовой_проект_Bake_Budget.pdf)
+* Курсовой проект [Docx](documentation/Курсовой_проект_Bake_Budget.docx) [Pdf](documentation/Курсовой_проект_Bake_Budget.pdf)
 * [Презентация 2 аттестация](https://docs.google.com/presentation/d/1tnxFeujkbwyB35coAObQSXqmEiOZm4jcZZVDvUfaaHU/edit?usp=drive_link)
 * Сопроводительное письмо для предзащиты [Docx](documentation/Сопроводительное%20письмо%20печать.docx) [Pdf](documentation/Сопроводительное%20письмо%20печать.pdf)
+* Гайд по использованию приложения [Pdf](documentation/гайд%20по%20использованию%20приложения.pdf)
 
 ### Презентации проекта
 
