@@ -27,8 +27,7 @@
 * [Перечень задач по оформлению технического задания](documentation/Перечень%20задач%20по%20оформлению%20технического%20задания.pdf)
 * Курсовой проект [Docx](documentation/Курсовой_проект_Bake_Budget.docx) [Pdf](documentation/Курсовой_проект_Bake_Budget.pdf)
 * [Презентация 2 аттестация](https://docs.google.com/presentation/d/1tnxFeujkbwyB35coAObQSXqmEiOZm4jcZZVDvUfaaHU/edit?usp=drive_link)
-* Сопроводительное письмо для предзащиты [Docx](documentation/Сопроводительное%20письмо%20печать.docx) [Pdf](documentation/Сопроводительное%20письмо%20печать.pdf)
-* Гайд по использованию приложения [Pdf](documentation/гайд%20по%20использованию%20приложения.pdf)
+* Сопроводительное письмо для предзащиты/защиты [Docx](documentation/Сопроводительное%20письмо%20печать.docx) [Pdf](documentation/Сопроводительное%20письмо%20печать.pdf)
 * Презентация продукта [Pptx](documentation/Презентация%20продукта.pptx) [Pdf](documentation/Презентация%20продукта.pdf)
 
 ### Презентации проекта
@@ -37,7 +36,8 @@
 * [Видео презентация 2 аттестация](https://drive.google.com/file/d/1EO0q1QOWb1bmxgW6Ro18P4GpF2LDYC_3/view?usp=drive_link)
 * [Демонстрация архитекуры бэкенда](https://drive.google.com/file/d/1mlHyg8lvg_KgqsjqRLe2lQ8MDQ1ApRKa/view?usp=sharing)
 * [Демонстрация архитекуры мобильного приложения](https://drive.google.com/file/d/1oJ2xLKIwnudfivEn-WDq8iWGtfz27N8v/view?usp=sharing)
-* [Видео презентация продукта](https://drive.google.com/file/d/1x9JcE7m9iZ82eO-mOszgtvRmybfXM7Cb/view?usp=sharing)
+* [Видео презентация продукта (до предзащиты)](https://drive.google.com/file/d/1x9JcE7m9iZ82eO-mOszgtvRmybfXM7Cb/view?usp=sharing)
+* [Видео презентация продукта (после предзащиты)](https://drive.google.com/file/d/1bIGFPDC__ShyYQ6I857dLjLs8C68EJmy/view?usp=sharing)
 
 ### Аналитика приложения
 
@@ -46,4 +46,5 @@
 
 ### Инструкция для запуска
 
-[BakeBudget.apk](BakeBudget.apk)
+* Гайд по использованию приложения [Pdf](documentation/гайд%20по%20использованию%20приложения.pdf)
+* [BakeBudget.apk](BakeBudget.apk)
