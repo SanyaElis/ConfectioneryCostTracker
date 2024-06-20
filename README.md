@@ -62,7 +62,26 @@ BakeBudget мобильное приложение, позволяющее со�
 * [backend](https://github.com/SanyaElis/BakeBudget-Backend)
 * [mobile](https://github.com/SanyaElis/BakeBudget-Frontend)
 
-### Инструкция для запуска
+### Мобильное приложение
 
 * Гайд по использованию приложения [Pdf](documentation/гайд%20по%20использованию%20приложения.pdf)
 * [BakeBudget.apk](BakeBudget.apk)
+
+### Инструкция для запуска backend
+
+Клонируйте репозиторий и перейдите в директорию
+
+```
+https://github.com/SanyaElis/BakeBudget-Backend.git
+```
+```
+cd BakeBudget-Backend
+```
+Соберите проект с помощью maven
+```
+mvn clean install
+```
+Соберите проект с помощью Docker compose
+```
+docker compose up -d
+```
