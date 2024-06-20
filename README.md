@@ -41,9 +41,9 @@
 
 ### Аналитика приложения
 
-[Скриншоты](analytics/)
-[pdf](analytics/Метрика.pdf)
+* [Скриншоты](analytics/)
+* [Pdf](analytics/Метрика.pdf)
 
 ### Инструкция для запуска
 
-[apk-file](BakeBudget.apk)
+[BakeBudget.apk](BakeBudget.apk)
