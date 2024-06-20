@@ -44,6 +44,15 @@
 * [Скриншоты](analytics/)
 * [Pdf](analytics/Метрика.pdf)
 
+### Swagger UI
+
+* [Сервер](https://bakebudget.ru/swagger-ui/index.html)
+
+### Подмодули разрабатываемого сервиса
+
+* [backend](https://github.com/SanyaElis/BakeBudget-Backend)
+* [mobile](https://github.com/SanyaElis/BakeBudget-Frontend)
+
 ### Инструкция для запуска
 
 * Гайд по использованию приложения [Pdf](documentation/гайд%20по%20использованию%20приложения.pdf)
