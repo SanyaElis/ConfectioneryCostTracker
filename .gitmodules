@@ -1,6 +1,8 @@
 [submodule "BakeBudget-Backend"]
 	path = BakeBudget-Backend
 	url = https://github.com/SanyaElis/BakeBudget-Backend.git
+	branch = main
 [submodule "BakeBudget-Frontend"]
 	path = BakeBudget-Frontend
 	url = https://github.com/SanyaElis/BakeBudget-Frontend.git
+	branch = main
